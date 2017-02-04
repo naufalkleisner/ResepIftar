@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, RecipesAppActivity!</string>
+    <string name="app_name">Resep Iftar\n Mudah</string>
+    <string name="search_by">Search by name</string>
+    <string name="search">Cari resep</string>
+    <string name="summary"> </string>
+    <string name="ingredients">Bahan-bahan</string>
+    <string name="directions">Cara membuat</string>
+    <string name="alert">Recipe not found.</string>
+
+    <string name="sunnah">
+        "Ketika berbuka puasa sebenarnya terdapat berbagai amalan yang membawa kebaikan dan keberkahan. Namun seringkali kita melalaikannya, lebih disibukkan dengan hal lainnya. Hal yang utama yang sering dilupakan adalah do’a. Secara lebih lengkapnya, mari kita lihat tulisan berikut seputar sunnah-sunnah ketika berbuka puasa:
+"Pertama: Menyegerakan berbuka puasa.
+"Yang dimaksud menyegerakan berbuka puasa, bukan berarti kita berbuka sebelum waktunya. Namun yang dimaksud adalah ketika matahari telah tenggelam atau ditandai dengan dikumandangkannya adzan Maghrib, maka segeralah berbuka. Dan tidak perlu sampai selesai adzan atau selesai shalat Maghrib. Rasulullah shallallahu ‘alaihi wa sallam bersabda,
+لاَ يَزَالُ النَّاسُ بِخَيْرٍ مَا عَجَّلُوا الْفِطْرَ"
+"“Manusia akan senantiasa berada dalam kebaikan selama mereka menyegerakan berbuka.” (HR. Bukhari no. 1957 dan Muslim no. 1098)
+"Dalam hadits yang lain disebutkan,
+لَا تَزَالُ أُمَّتِى عَلَى سُنَّتِى مَا لَمْ تَنْتَظِرْ بِفِطْرِهَا النُجُوْمَ"
+"“Umatku akan senantiasa berada di atas sunnahku (ajaranku) selama tidak menunggu munculnya bintang untuk berbuka puasa.” (HR. Ibnu Hibban 8/277 dan Ibnu Khuzaimah 3/275, sanad shahih). Inilah yang ditiru oleh Rafidhah (Syi’ah), mereka meniru Yahudi dan Nashrani dalam berbuka puasa. Mereka baru berbuka ketika munculnya bintang. Semoga Allah melindungi kita dari kesesatan mereka. (Lihat Shifat Shoum Nabi, 63)
+"Nabi kita shallallahu ‘alaihi wa sallam biasa berbuka puasa sebelum menunaikan shalat Maghrib dan bukanlah menunggu hingga shalat Maghrib selesai dikerjakan. Inilah contoh dan akhlaq dari suri tauladan kita shallallahu ‘alaihi wa sallam. Sebagaimana Anas bin Malik radhiyallahu ‘anhu berkata,
+كَانَ رَسُولُ اللَّهِ -صلى الله عليه وسلم- يُفْطِرُ عَلَى رُطَبَاتٍ قَبْلَ أَنْ يُصَلِّىَ فَإِنْ لَمْ تَكُنْ رُطَبَاتٌ فَعَلَى تَمَرَاتٍ فَإِنْ لَمْ تَكُنْ حَسَا حَسَوَاتٍ مِنْ مَاءٍ"
+"“Rasulullah shallallahu ‘alaihi wa sallam biasanya berbuka dengan rothb (kurma basah) sebelum menunaikan shalat. Jika tidak ada rothb, maka beliau berbuka dengan tamr (kurma kering). Dan jika tidak ada yang demikian beliau berbuka dengan seteguk air.” (HR. Abu Daud no. 2356 dan Ahmad 3/164, hasan shahih)
+"Kedua: Berbuka dengan rothb, tamr atau seteguk air.
+"Sebagaimana disebutkan dalam hadits Anas bin Malik di atas, bahwa Nabi shallallahu ‘alaihi wa sallam sangat menyukai berbuka dengan rothb (kurma basah) karena rothb amat enak dinikmati. Namun kita jarang menemukan rothb di negeri kita karena kurma yang sudah sampai ke negeri kita kebanyakan adalah kurma kering (tamr). Jika tidak ada rothb, barulah kita mencari tamr (kurma kering). Jika tidak ada kedua kurma tersebut, maka bisa beralih ke makanan yang manis-manis sebagai pengganti. Kata ulama Syafi’iyah, ketika puasa penglihatan kita biasa berkurang, kurma itulah sebagai pemulihnya dan makanan manis itu semakna dengannya (Kifayatul Akhyar, 289). Jika tidak ada lagi, maka berbukalah dengan seteguk air. Inilah yang diisyaratkan dalam hadits Anas di atas.
+"Ketiga: Sebelum makan berbuka, ucapkanlah ‘bismillah’ agar tambah barokah.
+"Inilah yang dituntunkan dalam Islam agar makan kita menjadi barokah, artinya menuai kebaikan yang banyak.
+"Dari ‘Aisyah radhiyallahu ‘anha, Rasulullah shallallahu ‘alaihi wa sallam bersabda,
+إِذَا أَكَلَ أَحَدُكُمْ فَلْيَذْكُرِ اسْمَ اللَّهِ تَعَالَى فَإِنْ نَسِىَ أَنْ يَذْكُرَ اسْمَ اللَّهِ تَعَالَى فِى أَوَّلِهِ فَلْيَقُلْ بِسْمِ اللَّهِ أَوَّلَهُ وَآخِرَهُ"
+"“Apabila salah seorang di antara kalian makan, maka hendaknya ia menyebut nama Allah Ta’ala (yaitu membaca ‘bismillah’). Jika ia lupa untuk menyebut nama Allah Ta’ala di awal, hendaklah ia mengucapkan: “Bismillaahi awwalahu wa aakhirohu (dengan nama Allah pada awal dan akhirnya)”.” (HR. Abu Daud no. 3767 dan At Tirmidzi no. 1858, hasan shahih)
+"Dari Wahsyi bin Harb dari ayahnya dari kakeknya bahwa para sahabat Nabi shallallahu ‘alaihi wa sallam berkata,
+يَا رَسُولَ اللَّهِ إِنَّا نَأْكُلُ وَلاَ نَشْبَعُ. قَالَ « فَلَعَلَّكُمْ تَفْتَرِقُونَ ». قَالُوا نَعَمْ. قَالَ « فَاجْتَمِعُوا عَلَى طَعَامِكُمْ وَاذْكُرُوا اسْمَ اللَّهِ عَلَيْهِ يُبَارَكْ لَكُمْ فِيهِ »"
+"“Wahai Rasulullah, sesungguhnya kami makan dan tidak merasa kenyang?” Beliau bersabda: “Kemungkinan kalian makan sendiri-sendiri.” Mereka menjawab, “Ya.” Beliau bersabda: “Hendaklah kalian makan secara bersama-sama, dan sebutlah nama Allah, maka kalian akan diberi berkah padanya.” (HR. Abu Daud no. 3764, hasan). Hadits ini menunjukkan bahwa agar makan penuh keberkahan, maka ucapkanlah bismilah serta keberkahan bisa bertambah dengan makan berjama’ah (bersama-sama).
+"Keempat: Berdo’a ketika berbuka “Dzahabazh zhoma-u …”
+"Ibnu ‘Umar radhiyallahu ‘anhuma berkata,
+كَانَ رَسُولُ اللَّهِ -صلى الله عليه وسلم- إِذَا أَفْطَرَ قَالَ « ذَهَبَ الظَّمَأُ وَابْتَلَّتِ الْعُرُوقُ وَثَبَتَ الأَجْرُ إِنْ شَاءَ اللَّهُ »."
+"“Rasulullah shallallahu ‘alaihi wa sallam ketika telah berbuka mengucapkan: ‘Dzahabazh zhoma’u wabtallatil ‘uruqu wa tsabatal ajru insya Allah (artinya: Rasa haus telah hilang dan urat-urat telah basah, dan pahala telah ditetapkan insya Allah)’.” (HR. Abu Daud no. 2357, hasan). Do’a ini bukan berarti dibaca sebelum berbuka dan bukan berarti puasa itu baru batal ketika membaca do’a di atas. Ketika ingin makan, tetap membaca ‘bismillah’ sebagaimana dituntunkan dalam penjelasan sebelumnya. Ketika berbuka, mulailah dengan membaca ‘bismillah’, lalu santaplah beberapa kurma, kemudian ucapkan do’a di atas ‘dzahabazh zhoma-u …’. Karena do’a di atas sebagaimana makna tekstual dari “إِذَا أَفْطَرَ “, berarti ketika setelah berbuka.
+"Catatan: Adapun do’a berbuka, “Allahumma laka shumtu wa ‘ala rizqika afthortu (Ya Allah, kepada-Mu aku berpuasa dan kepada-Mu aku berbuka)” Do’a ini berasal dari hadits hadits dho’if (lemah).  Begitu pula do’a berbuka, “Allahumma laka shumtu wa bika aamantu wa ‘ala rizqika afthortu” (Ya Allah, kepada-Mu aku berpuasa dan kepada-Mu aku beriman, dan dengan rizki-Mu aku berbuka), Mula ‘Ali Al Qori mengatakan, “Tambahan “wa bika aamantu” adalah tambahan yang tidak diketahui sanadnya, walaupun makna do’a tersebut shahih. Sehingga cukup do’a shahih yang kami sebutkan di atas (dzahabazh zhomau …) yang hendaknya jadi pegangan dalam amalan.
+"Kelima: Berdo’a secara umum ketika berbuka.
+""Ketika berbuka adalah waktu mustajabnya do’a. Jadi janganlah seorang muslim melewatkannya. Manfaatkan moment tersebut untuk berdo’a kepada Allah untuk urusan dunia dan akhirat. Nabi shallallahu ‘alaihi wa sallam bersabda,
+ثَلاَثَةٌ لاَ تُرَدُّ دَعْوَتُهُمُ الإِمَامُ الْعَادِلُ وَالصَّائِمُ حِينَ يُفْطِرُ وَدَعْوَةُ الْمَظْلُومِ"
+"“Ada tiga orang yang do’anya tidak ditolak : (1) Pemimpin yang adil, (2) Orang yang berpuasa ketika dia berbuka, (3) Do’a orang yang terzholimi.” (HR. Tirmidzi no. 2526 dan Ibnu Hibban 16/396, shahih). Ketika berbuka adalah waktu terkabulnya do’a karena ketika itu orang yang berpuasa telah menyelesaikan ibadahnya dalam keadaan tunduk dan merendahkan diri (Lihat Tuhfatul Ahwadzi, 7: 194).
+"Keenam: Memberi makan berbuka.
+"Jika kita diberi kelebihan rizki oleh Allah, manfaatkan waktu Ramadhan untuk banyak-banyak berderma, di antaranya adalah dengan memberi makan berbuka karena pahalanya yang amat besar. Rasulullah shallallahu ‘alaihi wa sallam bersabda,
+مَنْ فَطَّرَ صَائِمًا كَانَ لَهُ مِثْلُ أَجْرِهِ غَيْرَ أَنَّهُ لاَ يَنْقُصُ مِنْ أَجْرِ الصَّائِمِ شَيْئًا"
+"“Siapa memberi makan orang yang berpuasa, maka baginya pahala seperti orang yang berpuasa tersebut, tanpa mengurangi pahala orang yang berpuasa itu sedikit pun juga.” (HR. Tirmidzi no. 807, Ibnu Majah no. 1746, dan Ahmad 5/192, hasan shahih)
+"Ketujuh: Mendoakan orang yang beri makan berbuka.
+"Ketika ada yang memberi kebaikan kepada kita, maka balaslah semisal ketika diberi makan berbuka. Jika kita tidak mampu membalas kebaikannya dengan memberi yang semisal, maka doakanlah ia.  Dari ‘Abdullah bin ‘Umar, Nabi shallallahu ‘alaihi wa sallam bersabda,
+وَمَنْ صَنَعَ إِلَيْكُمْ مَعْرُوفًا فَكَافِئُوهُ فَإِنْ لَمْ تَجِدُوا مَا تُكَافِئُونَهُ فَادْعُوا لَهُ حَتَّى تَرَوْا أَنَّكُمْ قَدْ كَافَأْتُمُوهُ"
+"“Barangsiapa yang memberi kebaikan untukmu, maka balaslah. Jika engkau tidak dapati sesuatu untuk membalas kebaikannya, maka do’akanlah ia sampai engkau yakin engkau telah membalas kebaikannya.” (HR. Abu Daud no. 1672 dan Ibnu Hibban 8/199, shahih)
+"Ketika Nabi shallallahu ‘alaihi wa sallam diberi minum, beliau pun mengangkat kepalanya ke langit dan mengucapkan,
+"اللَّهُمَّ أَطْعِمْ مَنْ أَطْعَمَنِى وَأَسْقِ مَنْ أَسْقَانِى"
+"“Allahumma ath’im man ath’amanii wa asqi man asqoonii” [Ya Allah, berilah ganti makanan kepada orang yang memberi makan kepadaku dan berilah minuman kepada orang yang memberi minuman kepadaku]” (HR. Muslim no. 2055)
+"Kedelapan: Ketika berbuka puasa di rumah orang lain.
+"Nabi shallallahu ‘alaihi wa sallam ketika disuguhkan makanan oleh Sa’ad bin ‘Ubadah, beliau mengucapkan,
+أَفْطَرَ عِنْدَكُمُ الصَّائِمُونَ وَأَكَلَ طَعَامَكُمُ الأَبْرَارُ وَصَلَّتْ عَلَيْكُمُ الْمَلاَئِكَةُ"
+"“Afthoro ‘indakumush shoo-imuuna wa akala tho’amakumul abroor wa shollat ‘alaikumul malaa-ikah [Orang-orang yang berpuasa berbuka di tempat kalian, orang-orang yang baik menyantap makanan kalian dan malaikat pun mendo’akan agar kalian mendapat rahmat].” (HR. Abu Daud no. 3854 dan Ibnu Majah no. 1747 dan Ahmad 3/118, shahih)
+"Kesembilan: Ketika menikmati susu saat berbuka.
+"Dari Ibnu ‘Abbas radhiyallahu ‘anhuma, Rasulullah shallallahu ‘alaihi wa sallam bersabda,
+مَنْ أَطْعَمَهُ اللَّهُ الطَّعَامَ فَلْيَقُلِ اللَّهُمَّ بَارِكْ لَنَا فِيهِ وَأَطْعِمْنَا خَيْرًا مِنْهُ. وَمَنْ سَقَاهُ اللَّهُ لَبَنًا فَلْيَقُلِ اللَّهُمَّ بَارِكْ لَنَا فِيهِ وَزِدْنَا مِنْهُ"
+"“Barang siapa yang Allah beri makan hendaknya ia berdoa: “Allaahumma baarik lanaa fiihi wa ath’imnaa khoiron minhu” (Ya Allah, berkahilah kami padanya dan berilah kami makan yang lebih baik darinya). Barang siapa yang Allah beri minum susu maka hendaknya ia berdoa: “Allaahumma baarik lanaa fiihi wa zidnaa minhu” (Ya Allah, berkahilah kami padanya dan tambahkanlah darinya). Rasulullah shallallahu wa ‘alaihi wa sallam bersabda, “Tidak ada sesuatu yang bisa menggantikan makan dan minum selain susu.” (HR. Tirmidzi no. 3455, Abu Daud no. 3730, Ibnu Majah no. 3322, hasan)
+"Kesepuluh: Minum dengan tiga nafas dan membaca ‘bismillah’.
+"Dari Abu Hurairah radhiyallahu ‘anhu, ia berkata,
+كان يشرب في ثلاثة أنفاس إذا أدنى الإناء إلى فيه سمى الله تعالى وإذا أخره حمد الله تعالى يفعل ذلك ثلاث مرات"
+"“Rasulullah shallallahu ‘alaihi wa sallam biasa minum dengan tiga nafas. Jika wadah minuman didekati ke mulut beliau, beliau menyebut nama Allah Ta’ala. Jika selesai satu nafas, beliau bertahmid (memuji) Allah Ta’ala. Beliau lakukan seperti ini tiga kali.” (Shahih, As Silsilah Ash Shohihah no. 1277)
+"Kesebelas: Berdoa sesudah makan.
+"Di antara do’a yang shahih yang dapat diamalkan dan memiliki keutamaan luar biasa adalah do’a yang diajarkan dalam hadits berikut. Dari Mu’adz bin Anas, dari ayahnya ia berkata, Rasulullah shallallahu ‘alaihi wa sallam bersabda,
+مَنْ أَكَلَ طَعَامًا فَقَالَ الْحَمْدُ لِلَّهِ الَّذِى أَطْعَمَنِى هَذَا وَرَزَقَنِيهِ مِنْ غَيْرِ حَوْلٍ مِنِّى وَلاَ قُوَّةٍ. غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ"
+"“Barang siapa yang makan makanan kemudian mengucapkan: “Alhamdulillaahilladzii ath’amanii haadzaa wa rozaqoniihi min ghairi haulin minnii wa laa quwwatin” (Segala puji bagi Allah yang telah memberiku makanan ini, dan merizkikan kepadaku tanpa daya serta kekuatan dariku), maka diampuni dosanya yang telah lalu.” (HR. Tirmidzi no. 3458, hasan)
+"Namun jika mencukupkan dengan ucapan “alhamdulillah” setelah makan juga dibolehkan berdasarkan hadits Anas bin Malik, Nabi shallallahu ‘alaihi wa sallam bersabda,
+إِنَّ اللَّهَ لَيَرْضَى عَنِ الْعَبْدِ أَنْ يَأْكُلَ الأَكْلَةَ فَيَحْمَدَهُ عَلَيْهَا أَوْ يَشْرَبَ الشَّرْبَةَ فَيَحْمَدَهُ عَلَيْهَا"
+"“Sesungguhnya Allah Ta’ala sangat suka kepada hamba-Nya yang mengucapkan tahmid (alhamdulillah) sesudah makan dan minum” (HR. Muslim no. 2734) An Nawawi rahimahullah mengatakan, “Jika seseorang mencukupkan dengan bacaan “alhamdulillah” saja, maka itu sudah dikatakan menjalankan sunnah.” (Al Minhaj Syarh Shahih Muslim, 17: 51)
+"Demikian beberapa amalan ketika berbuka puasa. Moga yang sederhana ini bisa kita amalkan. Dan moga bulan Ramadhan kita penuh dengan kebaikan dan keberkahan. Wallahu waliyyut taufiq.
+
+"Alhamdulillahilladzi bi ni’matihi tatimmush sholihaat.
+
+
+    </string>
+
+    <string name="sunah1">
+ "  Ketika berbuka puasa sebenarnya terdapat berbagai amalan yang membawa kebaikan dan keberkahan. Namun seringkali kita melalaikannya, lebih disibukkan dengan hal lainnya. Hal yang utama yang sering dilupakan adalah do’a. Secara lebih lengkapnya, mari kita lihat tulisan berikut seputar sunnah-sunnah ketika berbuka puasa:
+
+        Pertama: Menyegerakan berbuka puasa.
+        Yang dimaksud menyegerakan berbuka puasa, bukan berarti kita berbuka sebelum waktunya. Namun yang dimaksud adalah ketika matahari telah tenggelam atau ditandai dengan dikumandangkannya adzan Maghrib, maka segeralah berbuka. Dan tidak perlu sampai selesai adzan atau selesai shalat Maghrib. Rasulullah shallallahu ‘alaihi wa sallam bersabda,
+لاَ يَزَالُ النَّاسُ بِخَيْرٍ مَا عَجَّلُوا الْفِطْرَ
+        “Manusia akan senantiasa berada dalam kebaikan selama mereka menyegerakan berbuka.” (HR. Bukhari no. 1957 dan Muslim no. 1098)
+        Dalam hadits yang lain disebutkan,
+لَا تَزَالُ أُمَّتِى عَلَى سُنَّتِى مَا لَمْ تَنْتَظِرْ بِفِطْرِهَا النُجُوْمَ
+        “Umatku akan senantiasa berada di atas sunnahku (ajaranku) selama tidak menunggu munculnya bintang untuk berbuka puasa.” (HR. Ibnu Hibban 8/277 dan Ibnu Khuzaimah 3/275, sanad shahih). Inilah yang ditiru oleh Rafidhah (Syi’ah), mereka meniru Yahudi dan Nashrani dalam berbuka puasa. Mereka baru berbuka ketika munculnya bintang. Semoga Allah melindungi kita dari kesesatan mereka. (Lihat Shifat Shoum Nabi, 63)
+        Nabi kita shallallahu ‘alaihi wa sallam biasa berbuka puasa sebelum menunaikan shalat Maghrib dan bukanlah menunggu hingga shalat Maghrib selesai dikerjakan. Inilah contoh dan akhlaq dari suri tauladan kita shallallahu ‘alaihi wa sallam. Sebagaimana Anas bin Malik radhiyallahu ‘anhu berkata,
+كَانَ رَسُولُ اللَّهِ -صلى الله عليه وسلم- يُفْطِرُ عَلَى رُطَبَاتٍ قَبْلَ أَنْ يُصَلِّىَ فَإِنْ لَمْ تَكُنْ رُطَبَاتٌ فَعَلَى تَمَرَاتٍ فَإِنْ لَمْ تَكُنْ حَسَا حَسَوَاتٍ مِنْ مَاءٍ
+        “Rasulullah shallallahu ‘alaihi wa sallam biasanya berbuka dengan rothb (kurma basah) sebelum menunaikan shalat. Jika tidak ada rothb, maka beliau berbuka dengan tamr (kurma kering). Dan jika tidak ada yang demikian beliau berbuka dengan seteguk air.” (HR. Abu Daud no. 2356 dan Ahmad 3/164, hasan shahih)
+    </string>
+
+    <string name="sunnah2">
+        "   Kedua: Berbuka dengan rothb, tamr atau seteguk air.
+Sebagaimana disebutkan dalam hadits Anas bin Malik di atas, bahwa Nabi shallallahu ‘alaihi wa sallam sangat menyukai berbuka dengan rothb (kurma basah) karena rothb amat enak dinikmati. Namun kita jarang menemukan rothb di negeri kita karena kurma yang sudah sampai ke negeri kita kebanyakan adalah kurma kering (tamr). Jika tidak ada rothb, barulah kita mencari tamr (kurma kering). Jika tidak ada kedua kurma tersebut, maka bisa beralih ke makanan yang manis-manis sebagai pengganti. Kata ulama Syafi’iyah, ketika puasa penglihatan kita biasa berkurang, kurma itulah sebagai pemulihnya dan makanan manis itu semakna dengannya (Kifayatul Akhyar, 289). Jika tidak ada lagi, maka berbukalah dengan seteguk air. Inilah yang diisyaratkan dalam hadits Anas di atas.
+
+        Ketiga: Sebelum makan berbuka, ucapkanlah ‘bismillah’ agar tambah barokah.
+Inilah yang dituntunkan dalam Islam agar makan kita menjadi barokah, artinya menuai kebaikan yang banyak.
+Dari ‘Aisyah radhiyallahu ‘anha, Rasulullah shallallahu ‘alaihi wa sallam bersabda,
+إِذَا أَكَلَ أَحَدُكُمْ فَلْيَذْكُرِ اسْمَ اللَّهِ تَعَالَى فَإِنْ نَسِىَ أَنْ يَذْكُرَ اسْمَ اللَّهِ تَعَالَى فِى أَوَّلِهِ فَلْيَقُلْ بِسْمِ اللَّهِ أَوَّلَهُ وَآخِرَهُ
+“Apabila salah seorang di antara kalian makan, maka hendaknya ia menyebut nama Allah Ta’ala (yaitu membaca ‘bismillah’). Jika ia lupa untuk menyebut nama Allah Ta’ala di awal, hendaklah ia mengucapkan: “Bismillaahi awwalahu wa aakhirohu (dengan nama Allah pada awal dan akhirnya)”.” (HR. Abu Daud no. 3767 dan At Tirmidzi no. 1858, hasan shahih)
+Dari Wahsyi bin Harb dari ayahnya dari kakeknya bahwa para sahabat Nabi shallallahu ‘alaihi wa sallam berkata,
+يَا رَسُولَ اللَّهِ إِنَّا نَأْكُلُ وَلاَ نَشْبَعُ. قَالَ « فَلَعَلَّكُمْ تَفْتَرِقُونَ ». قَالُوا نَعَمْ. قَالَ « فَاجْتَمِعُوا عَلَى طَعَامِكُمْ وَاذْكُرُوا اسْمَ اللَّهِ عَلَيْهِ يُبَارَكْ لَكُمْ فِيهِ »
+“Wahai Rasulullah, sesungguhnya kami makan dan tidak merasa kenyang?” Beliau bersabda: “Kemungkinan kalian makan sendiri-sendiri.” Mereka menjawab, “Ya.” Beliau bersabda: “Hendaklah kalian makan secara bersama-sama, dan sebutlah nama Allah, maka kalian akan diberi berkah padanya.” (HR. Abu Daud no. 3764, hasan). Hadits ini menunjukkan bahwa agar makan penuh keberkahan, maka ucapkanlah bismilah serta keberkahan bisa bertambah dengan makan berjama’ah (bersama-sama).
+
+        Keempat: Berdo’a ketika berbuka “Dzahabazh zhoma-u …”
+Ibnu ‘Umar radhiyallahu ‘anhuma berkata,
+كَانَ رَسُولُ اللَّهِ -صلى الله عليه وسلم- إِذَا أَفْطَرَ قَالَ « ذَهَبَ الظَّمَأُ وَابْتَلَّتِ الْعُرُوقُ وَثَبَتَ الأَجْرُ إِنْ شَاءَ اللَّهُ ».
+“Rasulullah shallallahu ‘alaihi wa sallam ketika telah berbuka mengucapkan: ‘Dzahabazh zhoma’u wabtallatil ‘uruqu wa tsabatal ajru insya Allah (artinya: Rasa haus telah hilang dan urat-urat telah basah, dan pahala telah ditetapkan insya Allah)’.” (HR. Abu Daud no. 2357, hasan). Do’a ini bukan berarti dibaca sebelum berbuka dan bukan berarti puasa itu baru batal ketika membaca do’a di atas. Ketika ingin makan, tetap membaca ‘bismillah’ sebagaimana dituntunkan dalam penjelasan sebelumnya. Ketika berbuka, mulailah dengan membaca ‘bismillah’, lalu santaplah beberapa kurma, kemudian ucapkan do’a di atas ‘dzahabazh zhoma-u …’. Karena do’a di atas sebagaimana makna tekstual dari “إِذَا أَفْطَرَ “, berarti ketika setelah berbuka.
+Catatan: Adapun do’a berbuka, “Allahumma laka shumtu wa ‘ala rizqika afthortu (Ya Allah, kepada-Mu aku berpuasa dan kepada-Mu aku berbuka)” Do’a ini berasal dari hadits hadits dho’if (lemah).  Begitu pula do’a berbuka, “Allahumma laka shumtu wa bika aamantu wa ‘ala rizqika afthortu” (Ya Allah, kepada-Mu aku berpuasa dan kepada-Mu aku beriman, dan dengan rizki-Mu aku berbuka), Mula ‘Ali Al Qori mengatakan, “Tambahan “wa bika aamantu” adalah tambahan yang tidak diketahui sanadnya, walaupun makna do’a tersebut shahih. Sehingga cukup do’a shahih yang kami sebutkan di atas (dzahabazh zhomau …) yang hendaknya jadi pegangan dalam amalan.""
+    </string>
+    <string name="sunnah3">
+        "   Kelima: Berdo’a secara umum ketika berbuka.
+Ketika berbuka adalah waktu mustajabnya do’a. Jadi janganlah seorang muslim melewatkannya. Manfaatkan moment tersebut untuk berdo’a kepada Allah untuk urusan dunia dan akhirat. Nabi shallallahu ‘alaihi wa sallam bersabda,
+ثَلاَثَةٌ لاَ تُرَدُّ دَعْوَتُهُمُ الإِمَامُ الْعَادِلُ وَالصَّائِمُ حِينَ يُفْطِرُ وَدَعْوَةُ الْمَظْلُومِ
+“Ada tiga orang yang do’anya tidak ditolak : (1) Pemimpin yang adil, (2) Orang yang berpuasa ketika dia berbuka, (3) Do’a orang yang terzholimi.” (HR. Tirmidzi no. 2526 dan Ibnu Hibban 16/396, shahih). Ketika berbuka adalah waktu terkabulnya do’a karena ketika itu orang yang berpuasa telah menyelesaikan ibadahnya dalam keadaan tunduk dan merendahkan diri (Lihat Tuhfatul Ahwadzi, 7: 194).
+
+           Keenam: Memberi makan berbuka.
+Jika kita diberi kelebihan rizki oleh Allah, manfaatkan waktu Ramadhan untuk banyak-banyak berderma, di antaranya adalah dengan memberi makan berbuka karena pahalanya yang amat besar. Rasulullah shallallahu ‘alaihi wa sallam bersabda,
+مَنْ فَطَّرَ صَائِمًا كَانَ لَهُ مِثْلُ أَجْرِهِ غَيْرَ أَنَّهُ لاَ يَنْقُصُ مِنْ أَجْرِ الصَّائِمِ شَيْئًا
+“Siapa memberi makan orang yang berpuasa, maka baginya pahala seperti orang yang berpuasa tersebut, tanpa mengurangi pahala orang yang berpuasa itu sedikit pun juga.” (HR. Tirmidzi no. 807, Ibnu Majah no. 1746, dan Ahmad 5/192, hasan shahih)
+
+           Ketujuh: Mendoakan orang yang beri makan berbuka.
+Ketika ada yang memberi kebaikan kepada kita, maka balaslah semisal ketika diberi makan berbuka. Jika kita tidak mampu membalas kebaikannya dengan memberi yang semisal, maka doakanlah ia.  Dari ‘Abdullah bin ‘Umar, Nabi shallallahu ‘alaihi wa sallam bersabda,
+وَمَنْ صَنَعَ إِلَيْكُمْ مَعْرُوفًا فَكَافِئُوهُ فَإِنْ لَمْ تَجِدُوا مَا تُكَافِئُونَهُ فَادْعُوا لَهُ حَتَّى تَرَوْا أَنَّكُمْ قَدْ كَافَأْتُمُوهُ
+“Barangsiapa yang memberi kebaikan untukmu, maka balaslah. Jika engkau tidak dapati sesuatu untuk membalas kebaikannya, maka do’akanlah ia sampai engkau yakin engkau telah membalas kebaikannya.” (HR. Abu Daud no. 1672 dan Ibnu Hibban 8/199, shahih)
+Ketika Nabi shallallahu ‘alaihi wa sallam diberi minum, beliau pun mengangkat kepalanya ke langit dan mengucapkan,
+اللَّهُمَّ أَطْعِمْ مَنْ أَطْعَمَنِى وَأَسْقِ مَنْ أَسْقَانِى
+“Allahumma ath’im man ath’amanii wa asqi man asqoonii” [Ya Allah, berilah ganti makanan kepada orang yang memberi makan kepadaku dan berilah minuman kepada orang yang memberi minuman kepadaku]” (HR. Muslim no. 2055)"
+    </string>
+    <string name="sunnah4">
+        "   Kedelapan: Ketika berbuka puasa di rumah orang lain.
+
+Nabi shallallahu ‘alaihi wa sallam ketika disuguhkan makanan oleh Sa’ad bin ‘Ubadah, beliau mengucapkan,
+أَفْطَرَ عِنْدَكُمُ الصَّائِمُونَ وَأَكَلَ طَعَامَكُمُ الأَبْرَارُ وَصَلَّتْ عَلَيْكُمُ الْمَلاَئِكَةُ
+“Afthoro ‘indakumush shoo-imuuna wa akala tho’amakumul abroor wa shollat ‘alaikumul malaa-ikah [Orang-orang yang berpuasa berbuka di tempat kalian, orang-orang yang baik menyantap makanan kalian dan malaikat pun mendo’akan agar kalian mendapat rahmat].” (HR. Abu Daud no. 3854 dan Ibnu Majah no. 1747 dan Ahmad 3/118, shahih)
+
+        Kesembilan: Ketika menikmati susu saat berbuka.
+Dari Ibnu ‘Abbas radhiyallahu ‘anhuma, Rasulullah shallallahu ‘alaihi wa sallam bersabda,
+مَنْ أَطْعَمَهُ اللَّهُ الطَّعَامَ فَلْيَقُلِ اللَّهُمَّ بَارِكْ لَنَا فِيهِ وَأَطْعِمْنَا خَيْرًا مِنْهُ. وَمَنْ سَقَاهُ اللَّهُ لَبَنًا فَلْيَقُلِ اللَّهُمَّ بَارِكْ لَنَا فِيهِ وَزِدْنَا مِنْهُ
+“Barang siapa yang Allah beri makan hendaknya ia berdoa: “Allaahumma baarik lanaa fiihi wa ath’imnaa khoiron minhu” (Ya Allah, berkahilah kami padanya dan berilah kami makan yang lebih baik darinya). Barang siapa yang Allah beri minum susu maka hendaknya ia berdoa: “Allaahumma baarik lanaa fiihi wa zidnaa minhu” (Ya Allah, berkahilah kami padanya dan tambahkanlah darinya). Rasulullah shallallahu wa ‘alaihi wa sallam bersabda, “Tidak ada sesuatu yang bisa menggantikan makan dan minum selain susu.” (HR. Tirmidzi no. 3455, Abu Daud no. 3730, Ibnu Majah no. 3322, hasan)
+
+        Kesepuluh: Minum dengan tiga nafas dan membaca ‘bismillah’.
+Dari Abu Hurairah radhiyallahu ‘anhu, ia berkata,
+كان يشرب في ثلاثة أنفاس إذا أدنى الإناء إلى فيه سمى الله تعالى وإذا أخره حمد الله تعالى يفعل ذلك ثلاث مرات
+“Rasulullah shallallahu ‘alaihi wa sallam biasa minum dengan tiga nafas. Jika wadah minuman didekati ke mulut beliau, beliau menyebut nama Allah Ta’ala. Jika selesai satu nafas, beliau bertahmid (memuji) Allah Ta’ala. Beliau lakukan seperti ini tiga kali.” (Shahih, As Silsilah Ash Shohihah no. 1277)"
+    </string>
+
+    <string name="sunnah5">
+
+        "   Kesebelas: Berdoa sesudah makan.
+Di antara do’a yang shahih yang dapat diamalkan dan memiliki keutamaan luar biasa adalah do’a yang diajarkan dalam hadits berikut. Dari Mu’adz bin Anas, dari ayahnya ia berkata, Rasulullah shallallahu ‘alaihi wa sallam bersabda,
+مَنْ أَكَلَ طَعَامًا فَقَالَ الْحَمْدُ لِلَّهِ الَّذِى أَطْعَمَنِى هَذَا وَرَزَقَنِيهِ مِنْ غَيْرِ حَوْلٍ مِنِّى وَلاَ قُوَّةٍ. غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ
+“Barang siapa yang makan makanan kemudian mengucapkan: “Alhamdulillaahilladzii ath’amanii haadzaa wa rozaqoniihi min ghairi haulin minnii wa laa quwwatin” (Segala puji bagi Allah yang telah memberiku makanan ini, dan merizkikan kepadaku tanpa daya serta kekuatan dariku), maka diampuni dosanya yang telah lalu.” (HR. Tirmidzi no. 3458, hasan)
+Namun jika mencukupkan dengan ucapan “alhamdulillah” setelah makan juga dibolehkan berdasarkan hadits Anas bin Malik, Nabi shallallahu ‘alaihi wa sallam bersabda,
+إِنَّ اللَّهَ لَيَرْضَى عَنِ الْعَبْدِ أَنْ يَأْكُلَ الأَكْلَةَ فَيَحْمَدَهُ عَلَيْهَا أَوْ يَشْرَبَ الشَّرْبَةَ فَيَحْمَدَهُ عَلَيْهَا
+“Sesungguhnya Allah Ta’ala sangat suka kepada hamba-Nya yang mengucapkan tahmid (alhamdulillah) sesudah makan dan minum” (HR. Muslim no. 2734) An Nawawi rahimahullah mengatakan, “Jika seseorang mencukupkan dengan bacaan “alhamdulillah” saja, maka itu sudah dikatakan menjalankan sunnah.” (Al Minhaj Syarh Shahih Muslim, 17: 51)
+Demikian beberapa amalan ketika berbuka puasa. Moga yang sederhana ini bisa kita amalkan. Dan moga bulan Ramadhan kita penuh dengan kebaikan dan keberkahan. Wallahu waliyyut taufiq.
+
+        Wallahu a’lam
+
+Alhamdulillahilladzi bi ni’matihi tatimmush sholihaat."
+    </string>
+</resources>

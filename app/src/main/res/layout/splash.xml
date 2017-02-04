@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#dadada">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/imageView" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textAlignment="center"
+        android:text="بسم الله"
+        android:textSize="40sp"
+        android:id="@+id/textView"
+        android:layout_marginTop="17dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Resep Iftar Mudah\n\nإِنْ شَاءَ اللَّهُ"
+        android:gravity="center"
+        android:fontFamily="serif-monospace"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:layout_marginTop="26dp"
+        android:id="@+id/textView3"
+        android:layout_below="@+id/textView"/>
+
+
+</RelativeLayout>
